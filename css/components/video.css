@@ -1,0 +1,10 @@
+.video-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 500px;
+        background: linear-gradient(to right, #00bfff, #ffffff);
+        margin-left: 70px;
+        position: relative;
+        flex-wrap: wrap;
+      }

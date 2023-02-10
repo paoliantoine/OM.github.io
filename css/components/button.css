@@ -1,0 +1,19 @@
+.btn-blue {
+	background-color: #38A6D8;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	align-content: center;
+}
+
+.btn-bluue{
+	background-color: #38A6D8;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-family: 'Roboto', sans-serif;
+	align-content: initial;
+	margin-left: 350px;
